@@ -1,4 +1,4 @@
-# JobShopSchedulingProblemusingGeneticAlgorithm
+# JobShopSchedulingUsingGeneticAlgorithm
 
 Job Shop Scheduling is an NP-Complete scheduling problem where a combination of predefined set of jobs and machines are to be deduced. There are ‘j’ number of jobs to be run on ‘m’ number of machines in ‘o’ number of operations. The combination of jobs and machines run in an operation with the execution sequence is to be found which will result in minimum time to complete the entire process.
 They cannot be formulated as a linear programming and no simple rules or algorithms
